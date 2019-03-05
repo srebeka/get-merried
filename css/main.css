@@ -65,7 +65,7 @@ a:hover {
 =============================*/
 
 .cover {
-  background: url('../images/wedding-landing-cover.jpg') no-repeat 70% center/cover;
+  background: url('../images/get-merried.jpg') no-repeat 70% center/cover;
   display: table;
   text-align: center;
   height: 100vh;
@@ -75,7 +75,7 @@ a:hover {
 @media (min-width: 768px) {
 
   .cover {
-    background: url('../images/wedding-landing-cover.jpg') no-repeat center/cover;
+    background: url('../images/get-merried.jpg') no-repeat center/cover;
   }
 
 }
